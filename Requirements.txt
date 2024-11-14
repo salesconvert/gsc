@@ -1,6 +1,5 @@
 streamlit
-google-auth
-google-api-python-client
+streamlit-google-auth
 pandas
 numpy
 matplotlib
